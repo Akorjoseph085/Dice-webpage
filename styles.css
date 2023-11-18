@@ -39,3 +39,10 @@ footer {
   font-family: 'Indie Flower', cursive;
 
 }
+
+.button a{
+  font-size:2rem;
+  font-family: 'Lobster', cursive;
+  
+  background-color: #4ECCA3;
+}
